@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nestjs/schedule": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16"
+  }
+}
